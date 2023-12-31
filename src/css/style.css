@@ -230,6 +230,9 @@ h4{
     .navbar .nav-item:not(:first-child){
         display: none;
     }
+    #menu li:last-child{
+        margin-top: 2rem;
+    }
 }
 
 
